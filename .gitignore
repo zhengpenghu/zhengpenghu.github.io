@@ -1,5 +1,13 @@
+_asset_bundler_cache
 _site
-.sass-cache
+.bundle
+.DS_Store
 .jekyll-cache
 .jekyll-metadata
+.sass-cache
+*.gem
 vendor
+codekit-config.json
+Gemfile.lock
+node_modules
+npm-debug.log*
