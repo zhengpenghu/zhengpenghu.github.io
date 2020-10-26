@@ -4,6 +4,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
-vendor
 Gemfile.lock
 package-lock.json
